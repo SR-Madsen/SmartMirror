@@ -1,0 +1,3 @@
+From the link below, download version 8 (EIGHT!) of the configuration tool from NXP. Version 9 does not include the correct microprocessor i.MX6ULL, for some reason.
+
+https://www.nxp.com/design/designs/pins-tool-for-i-mx-application-processors:PINS-TOOL-IMX?tab=Design_Tools_Tab
