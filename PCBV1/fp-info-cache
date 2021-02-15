@@ -1,4 +1,4 @@
-19100925140251331
+19107382149382752
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -71750,6 +71750,13 @@ Crystal or Oscillator
 4
 4
 Personal_ICs
+AP62301WU-7
+Voltage converter, TSOT26-7
+Power Supply
+0
+6
+6
+Personal_ICs
 AT86RF232-ZX
 Low-Power ZigBee Transceiver
 
@@ -71791,6 +71798,20 @@ Integrated Circuit
 0
 289
 289
+Personal_ICs
+MCP112T-315E-LB
+Voltage monitor, MCP112T-315E-LB
+Transistor
+0
+3
+3
+Personal_ICs
+MT41K128M16JT-125
+DDR3L Memory IC, 2 Gb (128M x 16), 800 MHz, Micron MT41K128M16JT-125:K 96-Ball FBGA
+Integrated Circuit
+0
+96
+96
 Personal_ICs
 MYRGP180100B21RA
 1.8 V DC-DC Converter, 1 A Iout, 2.5 V to 5.5 Vin, high efficiency, SMD 1008
@@ -71891,11 +71912,11 @@ Connector
 64
 Personal_Misc
 RJMG1BD3B8K1ANR
-RJ45 10/100 Ethernet connector with integrated magnetics, LEDs, and termination
-Connector
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
+RJ45 Magjack
 0
 14
-14
+13
 Personal_Misc
 SMTU2450-LF
 Coin cell 2450 battery holder, SMD
@@ -71938,6 +71959,13 @@ Filter
 0
 12
 8
+Personal_Passives
+PESD12VA-SFYL
+12 V ESD diode, SOD 962
+Diode ESD (Bi-directional)
+0
+2
+2
 Personal_Passives
 SRN2512R47M
 Inductor, 470 nH, 5.5 A max current, 20% tolerance, 32 mOhm DC, SMD
