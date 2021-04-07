@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 9
+Sheet 1 8
 Title "Smart Mirror"
 Date "2021-01-21"
 Rev "1.0"
@@ -24,12 +24,6 @@ S 2800 2000 1150 1500
 U 6009E54D
 F0 "WiFi" 50
 F1 "WiFi.sch" 50
-$EndSheet
-$Sheet
-S 2800 5700 1150 1550
-U 6009E63D
-F0 "Ethernet" 50
-F1 "Ethernet.sch" 50
 $EndSheet
 $Sheet
 S 8150 850  1000 1650
