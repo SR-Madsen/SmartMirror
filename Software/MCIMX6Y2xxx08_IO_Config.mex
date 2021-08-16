@@ -64,24 +64,6 @@
                   <pin peripheral="uSDHC1" signal="usdhc_data, 1" pin_num="B2" pin_signal="SD1_DATA1"/>
                   <pin peripheral="uSDHC1" signal="usdhc_data, 2" pin_num="B1" pin_signal="SD1_DATA2"/>
                   <pin peripheral="uSDHC1" signal="usdhc_data, 3" pin_num="A2" pin_signal="SD1_DATA3"/>
-                  <pin peripheral="ENET1" signal="enet_rdata, 0" pin_num="F16" pin_signal="ENET1_RX_DATA0"/>
-                  <pin peripheral="ENET1" signal="enet_rdata, 1" pin_num="E17" pin_signal="ENET1_RX_DATA1"/>
-                  <pin peripheral="ENET1" signal="enet_rx_en" pin_num="E16" pin_signal="ENET1_RX_EN"/>
-                  <pin peripheral="ENET1" signal="enet_rx_er" pin_num="D15" pin_signal="ENET1_RX_ER"/>
-                  <pin peripheral="ENET1" signal="enet_tx_clk" pin_num="F14" pin_signal="ENET1_TX_CLK"/>
-                  <pin peripheral="ENET1" signal="enet_tdata, 0" pin_num="E15" pin_signal="ENET1_TX_DATA0"/>
-                  <pin peripheral="ENET1" signal="enet_tdata, 1" pin_num="E14" pin_signal="ENET1_TX_DATA1"/>
-                  <pin peripheral="ENET1" signal="enet_tx_en" pin_num="F15" pin_signal="ENET1_TX_EN"/>
-                  <pin peripheral="ENET1" signal="enet_mdio" pin_num="C17" pin_signal="ENET2_RX_DATA0"/>
-                  <pin peripheral="ENET1" signal="enet_mdc" pin_num="C16" pin_signal="ENET2_RX_DATA1"/>
-                  <pin peripheral="ENET1" signal="enet_tx_er" pin_num="J14" pin_signal="UART1_RTS_B"/>
-                  <pin peripheral="ENET1" signal="enet_tdata, 3" pin_num="J16" pin_signal="UART2_RX_DATA"/>
-                  <pin peripheral="ENET1" signal="enet_tdata, 2" pin_num="J17" pin_signal="UART2_TX_DATA"/>
-                  <pin peripheral="ENET1" signal="enet_rx_clk" pin_num="K15" pin_signal="UART1_CTS_B"/>
-                  <pin peripheral="ENET1" signal="enet_rdata, 3" pin_num="K16" pin_signal="UART1_RX_DATA"/>
-                  <pin peripheral="ENET1" signal="enet_rdata, 2" pin_num="K14" pin_signal="UART1_TX_DATA"/>
-                  <pin peripheral="ENET1" signal="enet_crs" pin_num="J15" pin_signal="UART2_CTS_B"/>
-                  <pin peripheral="ENET1" signal="enet_col" pin_num="H14" pin_signal="UART2_RTS_B"/>
                   <pin peripheral="uSDHC1" signal="usdhc_cd_b" pin_num="L17" pin_signal="GPIO1_IO03"/>
                   <pin peripheral="uSDHC1" signal="usdhc_wp" pin_num="L14" pin_signal="GPIO1_IO02"/>
                   <pin peripheral="uSDHC2" signal="usdhc_cd_b" pin_num="L16" pin_signal="GPIO1_IO07"/>
