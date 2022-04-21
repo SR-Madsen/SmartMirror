@@ -14,5 +14,5 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text Notes 4850 3050 0    50   ~ 0
-Place uSD Card holder for booting Linux
+Place SD Card holder for booting Linux
 $EndSCHEMATC

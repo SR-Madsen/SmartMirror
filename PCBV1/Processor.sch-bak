@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A3 11693 16535 portrait
 encoding utf-8
-Sheet 8 9
+Sheet 8 8
 Title "Smart Mirror"
 Date "2021-01-21"
 Rev "1.0"
