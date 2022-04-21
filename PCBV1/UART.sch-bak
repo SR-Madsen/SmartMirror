@@ -3,14 +3,16 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 9
-Title "Smart Mirror"
-Date "2021-01-21"
-Rev "1.0"
-Comp "University of Southern Denmark"
-Comment1 "SRM"
+Sheet 9 9
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Notes 4850 3850 0    50   ~ 0
+PLACE UART TO USB IC\n\nEXAMPLES:\nCP2102N\nMCP2200-I
 $EndSCHEMATC
