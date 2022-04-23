@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 9 8
+Sheet 7 8
 Title "Smart Mirror"
 Date "2021-01-21"
 Rev "1.0"
@@ -20,7 +20,7 @@ P 2150 2000
 F 0 "U?" H 2850 2265 50  0000 C CNN
 F 1 "MT41K128M16JT-125_K" H 2850 2174 50  0000 C CNN
 F 2 "Personal_ICs:MT41K128M16JT-125" H 3400 2100 50  0001 L CNN
-F 3 "http://www.micron.com/~/media/documents/products/data-sheet/dram/ddr3/2gb_1_35v_ddr3l.pdf" H 3400 2000 50  0001 L CNN
+F 3 "http://www.micron.com/~/media/documents/products/data-https://www.mouser.dk/datasheet/2/671/mict_s_a0002296722_1-2290882.pdf" H 3400 2000 50  0001 L CNN
 F 4 "SDRAM - DDR3L Memory IC 2Gb (128M x 16) Parallel 800MHz 13.75ns 96-FBGA (8x14)" H 3400 1900 50  0001 L CNN "Description"
 F 5 "1.2" H 3400 1800 50  0001 L CNN "Height"
 F 6 "Micron" H 3400 1700 50  0001 L CNN "Manufacturer_Name"
