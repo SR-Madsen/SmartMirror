@@ -3,12 +3,12 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Sheet 5 8
+Title "Smart Mirror"
+Date "2022-04-22"
+Rev "1.0"
+Comp "University of Southern Denmark"
+Comment1 "SRM"
 Comment2 ""
 Comment3 ""
 Comment4 ""
