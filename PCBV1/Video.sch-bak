@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 8
 Title "Smart Mirror"
-Date "2021-01-21"
+Date "2022-04-22"
 Rev "1.0"
 Comp "University of Southern Denmark"
 Comment1 "SRM"

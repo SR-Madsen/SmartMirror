@@ -3,9 +3,9 @@ EELAYER 30 0
 EELAYER END
 $Descr A3 11693 16535 portrait
 encoding utf-8
-Sheet 8 8
+Sheet 7 8
 Title "Smart Mirror"
-Date "2021-01-21"
+Date "2022-04-22"
 Rev "1.0"
 Comp "University of Southern Denmark"
 Comment1 "SRM"
@@ -2105,4 +2105,22 @@ LCD_RESET
 Wire Wire Line
 	5150 7650 5050 7650
 NoConn ~ 5050 6750
+NoConn ~ 5050 10150
+NoConn ~ 5050 10050
+NoConn ~ 5050 9950
+NoConn ~ 5050 9850
+NoConn ~ 5050 8450
+NoConn ~ 5050 8350
+NoConn ~ 5050 8250
+NoConn ~ 5050 8150
+NoConn ~ 5050 8050
+NoConn ~ 5050 6650
+NoConn ~ 5050 6550
+NoConn ~ 5050 6450
+NoConn ~ 5050 6350
+NoConn ~ 2750 9450
+NoConn ~ 2750 9550
+NoConn ~ 2750 9650
+NoConn ~ 2750 13250
+NoConn ~ 2750 12850
 $EndSCHEMATC
