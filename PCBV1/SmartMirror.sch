@@ -403,17 +403,6 @@ Wire Wire Line
 	5300 3350 5800 3350
 Wire Wire Line
 	5800 3250 5300 3250
-$Comp
-L power:+5V #PWR?
-U 1 1 62777497
-P 4900 4300
-F 0 "#PWR?" H 4900 4150 50  0001 C CNN
-F 1 "+5V" H 4915 4473 50  0000 C CNN
-F 2 "" H 4900 4300 50  0001 C CNN
-F 3 "" H 4900 4300 50  0001 C CNN
-	1    4900 4300
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	4900 4300 4900 4250
 Wire Wire Line
@@ -701,4 +690,6 @@ Text Notes 4350 8250 0    50   ~ 0
 ESD diodes for D+, D-, VBUS\nLED for VBUS\n
 Text Notes 8750 1200 0    50   ~ 0
 ADD LED FOR POWER
+Text Notes 4450 4500 0    50   ~ 0
+ADD 5V SUPPLY (NOT USB)
 $EndSCHEMATC
