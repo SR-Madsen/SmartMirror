@@ -65,7 +65,25 @@
                   <pin peripheral="uSDHC1" signal="usdhc_data, 2" pin_num="B1" pin_signal="SD1_DATA2"/>
                   <pin peripheral="uSDHC1" signal="usdhc_data, 3" pin_num="A2" pin_signal="SD1_DATA3"/>
                   <pin peripheral="uSDHC1" signal="usdhc_cd_b" pin_num="L17" pin_signal="GPIO1_IO03"/>
-                  <pin peripheral="uSDHC1" signal="usdhc_wp" pin_num="L14" pin_signal="GPIO1_IO02"/>
+                  <pin peripheral="UART1" signal="uart_cts_b" pin_num="K15" pin_signal="UART1_CTS_B"/>
+                  <pin peripheral="UART1" signal="uart_rts_b" pin_num="J14" pin_signal="UART1_RTS_B"/>
+                  <pin peripheral="UART1" signal="uart_rx" pin_num="K16" pin_signal="UART1_RX_DATA"/>
+                  <pin peripheral="UART1" signal="uart_tx" pin_num="K14" pin_signal="UART1_TX_DATA"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_ale" pin_num="B4" pin_signal="NAND_ALE"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_ce0_b" pin_num="C5" pin_signal="NAND_CE0_B"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_cle" pin_num="A4" pin_signal="NAND_CLE"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_data, 00" pin_num="D7" pin_signal="NAND_DATA00"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_data, 01" pin_num="B7" pin_signal="NAND_DATA01"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_data, 02" pin_num="A7" pin_signal="NAND_DATA02"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_data, 03" pin_num="D6" pin_signal="NAND_DATA03"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_data, 04" pin_num="C6" pin_signal="NAND_DATA04"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_data, 05" pin_num="B6" pin_signal="NAND_DATA05"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_data, 06" pin_num="A6" pin_signal="NAND_DATA06"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_data, 07" pin_num="A5" pin_signal="NAND_DATA07"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_re_b" pin_num="D8" pin_signal="NAND_RE_B"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_ready_b" pin_num="A3" pin_signal="NAND_READY_B"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_we_b" pin_num="C8" pin_signal="NAND_WE_B"/>
+                  <pin peripheral="RAWNAND" signal="rawnand_wp_b" pin_num="D5" pin_signal="NAND_WP_B"/>
                </pins>
             </function>
          </functions_list>

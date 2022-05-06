@@ -14,5 +14,5 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text Notes 4900 3550 0    50   ~ 0
-Wi-Fi module & antenna.\n\nProposed ICs:\n\nNXP 88W8987\nMaxim MAX2831ETM+
+Wi-Fi module & antenna.\n\nProposed ICs:\n\nNXP 88W8987\nMaxim MAX2831ETM+\n\nOr something that takes MII in, perhaps better
 $EndSCHEMATC
