@@ -84,6 +84,12 @@
                   <pin peripheral="RAWNAND" signal="rawnand_ready_b" pin_num="A3" pin_signal="NAND_READY_B"/>
                   <pin peripheral="RAWNAND" signal="rawnand_we_b" pin_num="C8" pin_signal="NAND_WE_B"/>
                   <pin peripheral="RAWNAND" signal="rawnand_wp_b" pin_num="D5" pin_signal="NAND_WP_B"/>
+                  <pin peripheral="uSDHC2" signal="usdhc_clk" pin_num="F2" pin_signal="CSI_VSYNC"/>
+                  <pin peripheral="uSDHC2" signal="usdhc_cmd" pin_num="F3" pin_signal="CSI_HSYNC"/>
+                  <pin peripheral="uSDHC2" signal="usdhc_data, 0" pin_num="E4" pin_signal="CSI_DATA00"/>
+                  <pin peripheral="uSDHC2" signal="usdhc_data, 1" pin_num="E3" pin_signal="CSI_DATA01"/>
+                  <pin peripheral="uSDHC2" signal="usdhc_data, 2" pin_num="E2" pin_signal="CSI_DATA02"/>
+                  <pin peripheral="uSDHC2" signal="usdhc_data, 3" pin_num="E1" pin_signal="CSI_DATA03"/>
                </pins>
             </function>
          </functions_list>
