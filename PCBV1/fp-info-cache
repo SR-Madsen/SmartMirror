@@ -1,4 +1,4 @@
-19694525723205744
+19696203041809773
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72851,6 +72851,13 @@ Integrated Circuit
 Personal_ICs
 KSZ8081MNX
 10/100 Mbit ethernet physical unit
+Integrated Circuit
+0
+42
+33
+Personal_ICs
+KSZ8081RNB
+10/100 Mbit RMII Ethernet PHY, 32-Pin (5mm x 5mm) QFN-1
 Integrated Circuit
 0
 42

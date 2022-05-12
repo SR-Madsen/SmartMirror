@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 5 8
+Sheet 5 11
 Title "Smart Mirror"
 Date "2022-05-11"
 Rev "1.0"
@@ -1009,7 +1009,6 @@ F 3 "" H 5600 5800 50  0001 C CNN
 	1    5600 5800
 	1    0    0    -1  
 $EndComp
-NoConn ~ 3200 5800
 $Comp
 L Device:L L4
 U 1 1 62DEA1A1
@@ -1034,4 +1033,8 @@ F 4 "NRS8030T3R3MJGJ" V 4800 5800 50  0001 C CNN "Name"
 	1    4800 5800
 	0    -1   -1   0   
 $EndComp
+Text Label 3100 5800 0    50   ~ 0
+EN
+Wire Wire Line
+	3200 5800 3100 5800
 $EndSCHEMATC
